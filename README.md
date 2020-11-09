@@ -1,4 +1,4 @@
-# DataMining-Tugas-4
+# Read-Arff-And-Write-Arff
 
 ## Description:
 The script is for reading arff data and inserting it into the data frame. So that the data will be randomized according to request. After that the data is compiled again into arff.
